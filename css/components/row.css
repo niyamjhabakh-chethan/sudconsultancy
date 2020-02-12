@@ -1,0 +1,19 @@
+.row{
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+}
+@media (max-width: 760px) {
+  .row {
+    width: 600px;
+    padding: 30px;
+    margin: 50px;
+    }
+}
+@media (max-width: 500px) {
+  .row{
+    width: 400px;
+    padding: 30px;
+    margin: 50px;
+    }
+}

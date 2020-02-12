@@ -1,0 +1,10 @@
+.btn-green{
+	background-color: rgb(50, 195, 156);
+	font-family:'Slabo 27px', serif;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.btn-green a:hover{
+	background-color: rgb(102, 204, 255);
+}

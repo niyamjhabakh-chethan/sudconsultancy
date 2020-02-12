@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Slabo+27px&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/column.css");
+@import url("components/row.css");
+@import url("components/btn-green.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+body {
+	font-family: 'Slabo 27px', serif;
+}
+h1, h2, h3{
+	font-family: 'Merriweather', serif;
+}
+a {
+	text-decoration: none;
+	font-family: 'Slabo 27px', serif;
+	color: rgb(0, 0, 0);
+}
+a:hover{
+	background-color: rgb(50, 195, 156);
+}
+.fa-angle-double-up {
+	font-size: 50px;
+}
+.fa-euro-sign {
+	font-size: 50px;
+}
+.fa-handshake {
+	font-size: 50px;
+}
+.fa-balance-scale {
+	font-size: 50px;
+}
